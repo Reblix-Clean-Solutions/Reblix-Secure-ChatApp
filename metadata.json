@@ -1,0 +1,7 @@
+{
+  "name": "REBLIX Secure Chat",
+  "description": "Ende-zu-Ende verschlüsselter Messenger mit Partnersuche, registrierten Kontakten und Sicherheitsfeatures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
